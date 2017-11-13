@@ -1,3 +1,4 @@
-#!/bin/sh
-w=my name is jenkins
-echo $w
+#!/bin/bash
+echo " Hi "
+n=10
+echo $n
