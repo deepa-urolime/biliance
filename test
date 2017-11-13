@@ -1,1 +1,3 @@
 #!/bin/sh
+w=my name is jenkins
+echo $w
